@@ -217,7 +217,7 @@ setup(name='llvmlite',
       # Include the separately-compiled shared library
       url="http://llvmlite.readthedocs.io",
       project_urls={
-          "Source": "https://github.com/ChenlizheMe/llvmlite_for_infernux",
+          "Source": "https://github.com/InfernuxEngine/llvmlite_for_infernux",
           "Upstream": "https://github.com/numba/llvmlite",
       },
       packages=packages,
